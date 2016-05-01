@@ -1,5 +1,6 @@
-### Angular2 Starter Plunker - Typescript - Beta 0
+### ngrx store app klooing around
 
-A simple plunker demonstrating Angular2 usage:
-- Uses SystemJS + TypeScript to compile on the fly
-- Includes binding, directives, http, pipes, and DI usage.
+open the index.html file
+
+reference: http://plnkr.co/edit/Hb4pJP3jGtOp6b7JubzS?p=preview
+https://twitter.com/robwormald/status/697162673587290112
